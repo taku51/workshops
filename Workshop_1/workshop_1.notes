@@ -1,6 +1,6 @@
-Worksheet 
+Worksheet
 
-Task 1 
+Task1 
 
 Setting up Kali linux 
 
@@ -43,7 +43,7 @@ Now it's time to boot up the virtual machine
 You have installed Kali Linux!
 
 
-Task 2 
+Task2 
 
 To create a new text file in a new directory. Then using that file to find the login credentials of the target
 
